@@ -22,7 +22,7 @@ Each folder contains the relevant challenge files and any supporting documentati
 
 1. **Clone this repository** to your local machine:
    ```bash
-   git clone https://github.com/Direcc/DICT---Python-for-Beginners.git
+   git clone https://github.com/Direcc/DICT---Python-for-Beginners--.git
    ```
 2. Navigate to the part you're interested in and explore the code and solutions.
 3. Run the Python files using:
